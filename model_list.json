@@ -273,6 +273,7 @@
 		],
 		"aoba",
         "index",
+        "illysaviel",
         "epsilon2_1",
 		"madoka",
 
@@ -294,7 +295,8 @@
 		"wanko",
 		"haruto",
 		"koharu",
-		"kesshouban",
+        "kesshouban",
+        "Violet",
 		"yuri"
     ],
     "messages": [
@@ -311,6 +313,7 @@
 		"这位是 Haru",
 		"来自新游戏的青叶铃鹿风！",
         "禁酒索引",
+        "伊利亚斯维尔·冯·恩茨伯恩",
         "Epsilon 2_1",
 		"小圆",
         "椎名正宏",
@@ -326,7 +329,8 @@
 		"Wanko #我是一只狗",
 		"这位是 はると",
 		"这位是 こはる",
-		"这里的手掌",
+        "这里的手掌",
+        "紫色",
 		"你好尤里"
     ]
 }

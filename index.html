@@ -30,9 +30,9 @@ var W = window.innerWidth,
     H = window.innerHeight;
 canvas.width = W;
 canvas.height = H;
-var colunms = 49,
-    fontSize = Math.floor(W / colunms),
-    string = "1234567890",
+var columns = 59,
+    fontSize = Math.floor(W / columns),
+    string = "01DIB ",
     number = [],
     jmax = 2;
 
@@ -41,7 +41,7 @@ setInterval(function() {
     context.fillRect(0, 0, W, H);
     context.font = "700 " + fontSize + "px monospace";
     context.fillStyle = "#00cc33";
-    for (var i = 0; i < colunms; i++) {
+    for (var i = 0; i < columns; i++) {
         if (i % 10 == 9) continue;
         for (var j = 1; j < jmax; j++) {
             var index = Math.floor(Math.random() * string.length);

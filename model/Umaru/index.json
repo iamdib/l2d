@@ -15,8 +15,8 @@
 		{"name":"body", "id":"D_REF.PT_BODY"}
 	],
 	"hit_areas_custom": {
-		"head_x": [-0.35, 0.30],
-		"head_y": [0.35, -1.30],
+		"head_x": [-0.27, -0.22],
+		"head_y": [0.27, -0.6],
 		"body_x": [-0.3, -0.25],
 		"body_y": [0.3, -0.9]
 	},
